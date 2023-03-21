@@ -1,0 +1,154 @@
+.left
+{
+    display: flex;
+    justify-content: space-around;
+}
+.left_tieuDe
+{
+    width: 500px;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-around;
+}
+#imgLogo
+{
+    width: 15%;
+}
+#head
+{
+    display: flex;
+    justify-content: space-between;
+}
+.right
+{
+    width: 25%;
+    display: flex;
+    justify-content: space-around;
+    height: 20px;
+    margin-top: 10px;
+}
+#menu
+{
+    margin-top: 20px;
+}
+#Wa
+{
+    display: flex;
+    flex-direction: column;
+}
+#Center
+{
+    display: flex;
+    flex-direction: column;
+    width: 1100px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+#Center_sta
+{
+    display: flex;
+    justify-content: space-between;
+}
+#Center_sta1
+{
+    height: 10px;
+    display: flex;
+    align-items: center;
+}
+.Center_Pro
+{
+    display: flex;
+    justify-content: space-around;
+}
+.Center_Pro_left
+{
+    display: flex;
+    flex-direction: column;
+}
+#Center_Pro_left1
+{
+    display: flex;
+}
+#Left_Pro2
+{
+    margin-left: 100px;
+}
+.Center_Pro_right
+{
+   display: flex;
+   flex-direction:  column;
+   width: 1200px;
+   margin-left: 100px;
+   j
+}
+#color
+{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#size
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+#ba
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+#total
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+#buy
+{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    margin-top: 10px;
+}
+#add
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+#Center_Review
+{
+    display: flex;
+    flex-direction: column;
+}
+#rev
+{
+    display: flex;
+    justify-content: space-between;
+}
+#rev_sta
+{
+    display: flex;
+   align-items: center;
+   justify-content: space-around;
+   width: 200px;
+}
+#coment
+{
+    display: flex;
+    flex-direction: column;
+
+}
+#coment_1
+{
+    display: flex;
+    flex-direction: column;
+}
+#coment12
+{
+    display: flex;
+    
+}
